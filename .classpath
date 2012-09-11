@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/mysqlconnector/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="libs/idw-gpl-1.6.1/lib/idw-gpl.jar" sourcepath="libs/idw-gpl-1.6.1"/>
+	<classpathentry kind="lib" path="libs/poi-3.7/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="libs/HSQL 2.2.8/hsqldb.jar"/>
+	<classpathentry kind="lib" path="libs/itext-5.2.1/itextpdf-5.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jFreeChart/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="libs/jFreeChart/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
